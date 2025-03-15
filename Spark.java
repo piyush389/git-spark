@@ -8,4 +8,7 @@ public class Spark {
     public void notifyuser(){
         System.out.println("notify");
     }
+    public void auth(){
+        System.out.println("asdkugs");
+    }
 }
