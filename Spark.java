@@ -10,5 +10,7 @@ public class Spark {
     }
     public void auth(){
         System.out.println("asdkugs");
+
+        
     }
 }
