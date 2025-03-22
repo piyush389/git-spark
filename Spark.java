@@ -9,6 +9,9 @@ public class Spark {
         System.out.println("notify");
     }
     public void auth(){
+
         System.out.println("asdfghj");
+        System.out.println("asdkugs");
+        
     }
 }
