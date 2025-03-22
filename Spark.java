@@ -10,7 +10,8 @@ public class Spark {
     }
     public void auth(){
         System.out.println("asdkugs");
-
-        
+    }
+    public void aa(){
+        System.out.println("master work");
     }
 }
